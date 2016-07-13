@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuTest</string>
+    <string name="textView">请按键盘物理菜单键，弹出选项菜单</string>
+    <string name="textView2">单击物理菜单键显菜单，再显示子菜单</string>
+    <string name="button1">选择弹出菜单</string>
+    <string name="button2">打开文件的子菜单</string>
+    <string name="button3">长按复制粘贴菜单</string>
+    <string name="et1">长按弹出内容菜单</string>
+</resources>
